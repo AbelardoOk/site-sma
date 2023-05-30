@@ -3,13 +3,13 @@ export default function Home() {
     <main className="h-screen">
 
       <header>
-        <img src="" alt="" />
+        <p>SMA</p>
 
-        <div>
+        <div> 
           <a href="home">home</a>
           <a href="sobre">sobre</a>
-          <a href="">dicas</a>
-          <a href="">cadastro</a>
+          <a href="dicas">dicas</a>
+          <a href="cadastro">cadastro</a>
         </div>
 
       </header>
@@ -18,7 +18,7 @@ export default function Home() {
       <section id="sobre"></section>
       <section id="informs"></section>
       <section id="dicas"></section>
-      <section id="se-informe"></section>
+      <section id="cadastro"></section>
 
       <footer>
 
